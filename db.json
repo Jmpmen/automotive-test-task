@@ -5,7 +5,7 @@
         "make": "Toyota",
         "model": "Camry",
         "price": "$25000",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://api.lorem.space/image/car?w=150&h=150",
         "gallery": [
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
@@ -36,7 +36,7 @@
         "make": "Toyota",
         "model": "Camry",
         "price": "$25000",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://api.lorem.space/image/car?w=150&h=150",
         "gallery": [
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
@@ -67,7 +67,7 @@
         "make": "Toyota",
         "model": "Camry",
         "price": "$25000",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://api.lorem.space/image/car?w=150&h=150",
         "gallery": [
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
@@ -98,7 +98,7 @@
         "make": "Toyota",
         "model": "Camry",
         "price": "$25000",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://api.lorem.space/image/car?w=150&h=150",
         "gallery": [
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
@@ -129,7 +129,7 @@
         "make": "Toyota",
         "model": "Camry",
         "price": "$25000",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://api.lorem.space/image/car?w=150&h=150",
         "gallery": [
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
@@ -160,7 +160,7 @@
         "make": "Toyota",
         "model": "Camry",
         "price": "$25000",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://api.lorem.space/image/car?w=150&h=150",
         "gallery": [
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
@@ -191,7 +191,7 @@
         "make": "Toyota",
         "model": "Camry",
         "price": "$25000",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://api.lorem.space/image/car?w=150&h=150",
         "gallery": [
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
