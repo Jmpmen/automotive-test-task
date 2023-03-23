@@ -10,6 +10,24 @@
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
         ]
     },
     {
@@ -23,6 +41,24 @@
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
         ]
     },
     {
@@ -36,6 +72,24 @@
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
         ]
     },
     {
@@ -49,6 +103,24 @@
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
         ]
     },
     {
@@ -62,6 +134,24 @@
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
         ]
     },
     {
@@ -106,6 +196,24 @@
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150",
           "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
         ]
     }
 ]}
