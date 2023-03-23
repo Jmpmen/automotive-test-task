@@ -1,7 +1,6 @@
 {"cars": [
     {
-        "id": 1,
-        "vin": "12345678901234567",
+        "vin": "1",
         "year": 2022,
         "make": "Toyota",
         "model": "Camry",
@@ -32,8 +31,162 @@
         ]
     },
     {
-        "id": 1,
-        "vin": "12345678901234567",
+        "vin": "2",
+        "year": 2022,
+        "make": "Toyota",
+        "model": "Camry",
+        "price": 25000,
+        "image": "https://via.placeholder.com/150",
+        "gallery": [
+          "https://via.placeholder.com/350x150",
+          "https://via.placeholder.com/350x150",
+          "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
+        ]
+    },
+    {
+        "vin": "3",
+        "year": 2022,
+        "make": "Toyota",
+        "model": "Camry",
+        "price": 25000,
+        "image": "https://via.placeholder.com/150",
+        "gallery": [
+          "https://via.placeholder.com/350x150",
+          "https://via.placeholder.com/350x150",
+          "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
+        ]
+    },
+    {
+        "vin": "4",
+        "year": 2022,
+        "make": "Toyota",
+        "model": "Camry",
+        "price": 25000,
+        "image": "https://via.placeholder.com/150",
+        "gallery": [
+          "https://via.placeholder.com/350x150",
+          "https://via.placeholder.com/350x150",
+          "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
+        ]
+    },
+    {
+        "vin": "5",
+        "year": 2022,
+        "make": "Toyota",
+        "model": "Camry",
+        "price": 25000,
+        "image": "https://via.placeholder.com/150",
+        "gallery": [
+          "https://via.placeholder.com/350x150",
+          "https://via.placeholder.com/350x150",
+          "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
+        ]
+    },
+    {
+        "vin": "6",
+        "year": 2022,
+        "make": "Toyota",
+        "model": "Camry",
+        "price": 25000,
+        "image": "https://via.placeholder.com/150",
+        "gallery": [
+          "https://via.placeholder.com/350x150",
+          "https://via.placeholder.com/350x150",
+          "https://via.placeholder.com/350x150"
+        ],
+        "ownershipHistory": [
+          {
+            "owner": "John Doe",
+            "from": "2022-01-01",
+            "to": "2022-02-01"
+          },
+          {
+            "owner": "Jane Doe",
+            "from": "2022-02-02",
+            "to": "2022-03-01"
+          }
+        ],
+        "accidentHistory": [
+          {
+            "date": "2022-02-15",
+            "description": "Minor fender bender"
+          }
+        ]
+    },
+    {
+        "vin": "7",
         "year": 2022,
         "make": "Toyota",
         "model": "Camry",
