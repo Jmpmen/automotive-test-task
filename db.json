@@ -4,7 +4,7 @@
         "year": 2022,
         "make": "Toyota",
         "model": "Camry",
-        "price": 25000,
+        "price": "$25000",
         "image": "https://via.placeholder.com/150",
         "gallery": [
           "https://via.placeholder.com/350x150",
@@ -35,7 +35,7 @@
         "year": 2022,
         "make": "Toyota",
         "model": "Camry",
-        "price": 25000,
+        "price": "$25000",
         "image": "https://via.placeholder.com/150",
         "gallery": [
           "https://via.placeholder.com/350x150",
@@ -66,7 +66,7 @@
         "year": 2022,
         "make": "Toyota",
         "model": "Camry",
-        "price": 25000,
+        "price": "$25000",
         "image": "https://via.placeholder.com/150",
         "gallery": [
           "https://via.placeholder.com/350x150",
@@ -97,7 +97,7 @@
         "year": 2022,
         "make": "Toyota",
         "model": "Camry",
-        "price": 25000,
+        "price": "$25000",
         "image": "https://via.placeholder.com/150",
         "gallery": [
           "https://via.placeholder.com/350x150",
@@ -128,7 +128,7 @@
         "year": 2022,
         "make": "Toyota",
         "model": "Camry",
-        "price": 25000,
+        "price": "$25000",
         "image": "https://via.placeholder.com/150",
         "gallery": [
           "https://via.placeholder.com/350x150",
@@ -159,7 +159,7 @@
         "year": 2022,
         "make": "Toyota",
         "model": "Camry",
-        "price": 25000,
+        "price": "$25000",
         "image": "https://via.placeholder.com/150",
         "gallery": [
           "https://via.placeholder.com/350x150",
@@ -190,7 +190,7 @@
         "year": 2022,
         "make": "Toyota",
         "model": "Camry",
-        "price": 25000,
+        "price": "$25000",
         "image": "https://via.placeholder.com/150",
         "gallery": [
           "https://via.placeholder.com/350x150",
