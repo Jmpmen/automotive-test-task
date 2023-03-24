@@ -1,217 +1,202 @@
 {"cars": [
     {
         "vin": "1",
-        "year": 2022,
-        "make": "Toyota",
-        "model": "Camry",
-        "price": "$25000",
-        "image": "https://via.placeholder.com/150?text=Toyota+Camry",
+        "year": "1964",
+        "make": "Aston Martin",
+        "model": "DB5",
+        "price": "$990,000",
+        "image": "https://via.placeholder.com/150?text=Aston+Marin+DB5",
         "gallery": [
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry2",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry3"
+          "https://via.placeholder.com/400x200?text=Aston+Marin+DB5+1",
+          "https://via.placeholder.com/400x200?text=Aston+Marin+DB5+2",
+          "https://via.placeholder.com/400x200?text=Aston+Marin+DB5+3"
         ],
         "ownershipHistory": [
           {
-            "owner": "John Doe",
-            "from": "2022-01-01",
-            "to": "2022-02-01"
+            "owner": "Bonnie Green",
+            "from": "1995-01-08",
+            "to": "2004-02-06"
           },
           {
-            "owner": "Jane Doe",
-            "from": "2022-02-02",
+            "owner": "Thomas Lean",
+            "from": "2004-04-16",
             "to": "2022-03-01"
           }
         ],
         "accidentHistory": [
           {
-            "date": "2022-02-15",
+            "date": "2008-06-15",
             "description": "Minor fender bender"
           }
         ]
     },
     {
         "vin": "2",
-        "year": 2022,
-        "make": "Toyota",
-        "model": "Camry",
-        "price": "$25000",
-        "image": "https://via.placeholder.com/150?text=Toyota+Camry",
+        "year": "1962",
+        "make": "Ferrari",
+        "model": "250 GTO",
+        "price": "$48 million",
+        "image": "https://via.placeholder.com/150?text=Ferrari+250+GTO",
         "gallery": [
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry"
+          "https://via.placeholder.com/400x200?text=Ferrari+250+GTO+1",
+          "https://via.placeholder.com/400x200?text=Ferrari+250+GTO+2",
+          "https://via.placeholder.com/400x200?text=Ferrari+250+GTO+3"
         ],
         "ownershipHistory": [
           {
-            "owner": "John Doe",
-            "from": "2022-01-01",
-            "to": "2022-02-01"
-          },
-          {
-            "owner": "Jane Doe",
-            "from": "2022-02-02",
-            "to": "2022-03-01"
+            "owner": "Laura Romeros",
+            "from": "2005-06-28",
+            "to": "PRESENT"
           }
         ],
         "accidentHistory": [
           {
-            "date": "2022-02-15",
+            "date": "2009-05-25",
             "description": "Minor fender bender"
           }
         ]
     },
     {
         "vin": "3",
-        "year": 2022,
-        "make": "Toyota",
-        "model": "Camry",
-        "price": "$25000",
-        "image": "https://via.placeholder.com/150?text=Toyota+Camry",
+        "year": "1961",
+        "make": "Jaguar",
+        "model": "E-Type",
+        "price": "$125,000",
+        "image": "https://via.placeholder.com/150?text=Jaguar+E-Type+61",
         "gallery": [
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry"
+          "https://via.placeholder.com/400x200?text=Jaguar+E-Type+61+1",
+          "https://via.placeholder.com/400x200?text=Jaguar+E-Type+61+2",
+          "https://via.placeholder.com/400x200?text=Jaguar+E-Type+61+3"
         ],
         "ownershipHistory": [
           {
-            "owner": "John Doe",
-            "from": "2022-01-01",
-            "to": "2022-02-01"
-          },
-          {
-            "owner": "Jane Doe",
-            "from": "2022-02-02",
-            "to": "2022-03-01"
+            "owner": "Mike Willi",
+            "from": "1961-01-01",
+            "to": "PRESENT"
           }
         ],
         "accidentHistory": [
           {
             "date": "2022-02-15",
-            "description": "Minor fender bender"
+            "description": "Total wreck"
           }
         ]
     },
     {
         "vin": "4",
-        "year": 2022,
-        "make": "Toyota",
-        "model": "Camry",
-        "price": "$25000",
-        "image": "https://via.placeholder.com/150?text=Toyota+Camry",
+        "year": "1963",
+        "make": "Porsche",
+        "model": "911",
+        "price": "$101,000",
+        "image": "https://via.placeholder.com/150?text=Porsche+911",
         "gallery": [
-          "https://via.placeholder.com/350x150?text=Toyota+Camry?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry?text=Toyota+Camry"
+          "https://via.placeholder.com/400x200?text=Porsche+911+1",
+          "https://via.placeholder.com/400x200?text=Porsche+911+2",
+          "https://via.placeholder.com/400x200?text=Porsche+911+3"
         ],
         "ownershipHistory": [
           {
-            "owner": "John Doe",
-            "from": "2022-01-01",
-            "to": "2022-02-01"
+            "owner": "Jese Leos",
+            "from": "1988-12-21",
+            "to": "2012-12-21"
           },
           {
-            "owner": "Jane Doe",
-            "from": "2022-02-02",
-            "to": "2022-03-01"
+            "owner": "Miles Tone",
+            "from": "2012-12-22",
+            "to": "2023-03-24"
           }
         ],
         "accidentHistory": [
           {
-            "date": "2022-02-15",
-            "description": "Minor fender bender"
+            "date": "2012-12-21",
+            "description": "Flat tire"
           }
         ]
     },
     {
         "vin": "5",
-        "year": 2022,
-        "make": "Toyota",
-        "model": "Camry",
-        "price": "$25000",
-        "image": "https://via.placeholder.com/150?text=Toyota+Camry",
+        "year": "1970",
+        "make": "Chevrolet",
+        "model": "El Camino SS",
+        "price": "$33,000",
+        "image": "https://via.placeholder.com/150?text=Chevrolet+El+Camino+SS",
         "gallery": [
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry"
+          "https://via.placeholder.com/400x200?text=Chevrolet+El+Camino+SS+1",
+          "https://via.placeholder.com/400x200?text=Chevrolet+El+Camino+SS+2",
+          "https://via.placeholder.com/400x200?text=Chevrolet+El+Camino+SS+3"
         ],
         "ownershipHistory": [
           {
-            "owner": "John Doe",
-            "from": "2022-01-01",
-            "to": "2022-02-01"
-          },
-          {
-            "owner": "Jane Doe",
-            "from": "2022-02-02",
-            "to": "2022-03-01"
+            "owner": "Time Travel Man",
+            "from": "1924-11-24",
+            "to": "2068-08-05"
           }
         ],
         "accidentHistory": [
           {
-            "date": "2022-02-15",
-            "description": "Minor fender bender"
+            "date": "2042-09-08",
+            "description": "Reduced to nothing"
           }
         ]
     },
     {
         "vin": "6",
-        "year": 2022,
-        "make": "Toyota",
-        "model": "Camry",
-        "price": "$25000",
-        "image": "https://via.placeholder.com/150?text=Toyota+Camry",
+        "year": "1962",
+        "make": "Oldsmobile",
+        "model": "Starfire Convertible",
+        "price": "$26,400",
+        "image": "https://via.placeholder.com/150?text=Oldsmobile+Starfire+Convertible",
         "gallery": [
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry"
+          "https://via.placeholder.com/400x200?text=Oldsmobile+Starfire+Convertible+1",
+          "https://via.placeholder.com/400x200?text=Oldsmobile+Starfire+Convertible+2",
+          "https://via.placeholder.com/400x200?text=Oldsmobile+Starfire+Convertible+3"
         ],
         "ownershipHistory": [
           {
-            "owner": "John Doe",
-            "from": "2022-01-01",
-            "to": "2022-02-01"
+            "owner": "Hans Down",
+            "from": "2001-01-01",
+            "to": "2001-01-02"
           },
           {
-            "owner": "Jane Doe",
-            "from": "2022-02-02",
-            "to": "2022-03-01"
+            "owner": "Jackson Pot",
+            "from": "2001-01-02",
+            "to": "2001-01-03"
           }
         ],
         "accidentHistory": [
           {
-            "date": "2022-02-15",
-            "description": "Minor fender bender"
+            "date": "2000-12-31",
+            "description": "Bent wheels"
           }
         ]
     },
     {
         "vin": "7",
-        "year": 2022,
-        "make": "Toyota",
-        "model": "Camry",
-        "price": "$25000",
-        "image": "https://via.placeholder.com/150?text=Toyota+Camry",
+        "year": "1959",
+        "make": "British Motor Corporation",
+        "model": "Mini",
+        "price": "$31,000",
+        "image": "https://via.placeholder.com/150?text=Mini",
         "gallery": [
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry",
-          "https://via.placeholder.com/350x150?text=Toyota+Camry"
+          "https://via.placeholder.com/400x200?text=Mini+1",
+          "https://via.placeholder.com/400x200?text=Mini+2",
+          "https://via.placeholder.com/400x200?text=Mini+3"
         ],
         "ownershipHistory": [
           {
-            "owner": "John Doe",
-            "from": "2022-01-01",
-            "to": "2022-02-01"
+            "owner": "Alan Fresco",
+            "from": "2011-11-11",
+            "to": "2012-11-11"
           },
           {
-            "owner": "Jane Doe",
-            "from": "2022-02-02",
-            "to": "2022-03-01"
+            "owner": "Weir Doe",
+            "from": "2015-05-05",
+            "to": "2015-05-05"
           }
         ],
         "accidentHistory": [
           {
-            "date": "2022-02-15",
+            "date": "2014-02-13",
             "description": "Minor fender bender"
           }
         ]
