@@ -1,6 +1,6 @@
 # Hypothetical Automotive Company
 
-This is a test project
+This is a test task
 
 **Link to project:** https://hypothetical-automotive-company.netlify.app/
 
