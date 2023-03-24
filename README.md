@@ -22,7 +22,7 @@ This test project uses React and Tailwind for the frontend and styling
 ## Optimizations
 
 This styling can be further improved.
-This project doesn't catch a 404 not found and can easily be added with proper backend.
+This project doesn't catch a 404 not found but can easily be added with proper backend.
 
 ## Lessons Learned:
 
