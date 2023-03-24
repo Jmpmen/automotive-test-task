@@ -1,11 +1,12 @@
 import { useState, useEffect } from "react";
-import { useParams } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import Gallery from '../components/Gallery'
 import History from '../components/History'
 
 function CarDetail() {
     const [car, setCar] = useState(null);
     const { vin } = useParams();
+    const navigate = useNavigate();
 
     useEffect(() => {
         // fetch car data from the server or API
@@ -44,6 +45,7 @@ function CarDetail() {
         ))}
         </ol>
         <p className="text-lg font-semibold text-gray-900 mt-10 mx-10">Price: {car.price}</p>
+        <button onClick={() => navigate(-1)} class="font-medium text-blue-600 hover:underline mt-10 mx-10">Go Back</button>
       </div>
     );
   };
